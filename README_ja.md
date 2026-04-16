@@ -73,3 +73,5 @@ v0.2で修正予定:
 ## 6. ライセンス
 Yume-IMEのコードはすべて[MIT LICENSE](https://opensource.org/license/mit) の下で公開されています。
 
+## 7.Support
+気に入ったらスターをいただけると励みになります。
