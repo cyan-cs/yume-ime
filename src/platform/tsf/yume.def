@@ -1,0 +1,6 @@
+LIBRARY YumeIME
+EXPORTS
+    DllCanUnloadNow
+    DllGetClassObject
+    DllRegisterServer
+    DllUnregisterServer
