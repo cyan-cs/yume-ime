@@ -1,7 +1,7 @@
 
 # Yume - Japanese Input IME
 
-### ![日本語はこちら](./README_ja.md)
+### [日本語はこちら](./README_ja.md)
 A fully open-source IME released under the MIT License. It automatically generates Katakana and Romaji candidates from Hiragana input, providing an efficient typing experience.  
 Copyright (c) 2026-present cyan-cs
 
