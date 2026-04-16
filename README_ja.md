@@ -1,7 +1,7 @@
 
 # Yume - 日本語入力IME
 
-### ![Read in English here](./README.md)
+### [Read in English here](./README.md)
 完全OSS+MITライセンス。ひらがな入力でカタカナ・ローマ字候補を自動生成し、効率的な入力体験を提供します。<br />
 Copyright (c) 2026-present cyan-cs
 
