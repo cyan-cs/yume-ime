@@ -1,0 +1,11 @@
+{
+  "compatibility_style": "modern_jp",
+  "caps_lock_behavior": "system",
+  "printable_during_conversion": "commit_and_insert",
+  "focus_loss_behavior": "commit",
+  "escape_in_conversion": "cancel_to_composing",
+  "backspace_in_conversion": "cancel_to_composing",
+  "enable_katakana": false,
+  "enable_half_katakana": false,
+  "enable_full_width_alnum": false
+}
