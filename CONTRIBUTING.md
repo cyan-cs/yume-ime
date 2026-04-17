@@ -24,4 +24,4 @@ Bug reports and improvement suggestions are welcome.
 
 ## コーディングルール
 - C++20
-- [フォーマットルール](Doc/ja/dev_doc/coding_style_en.md)
+- [フォーマットルール](Doc/ja/dev_doc/coding_style_ja.md)
