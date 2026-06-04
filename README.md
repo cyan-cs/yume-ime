@@ -83,3 +83,4 @@ All Yume-IME code is released under the [MIT License](https://opensource.org/lic
 
 ## 7. Support
 If you like it, I'd appreciate it if you could give it a star.
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan)
