@@ -82,5 +82,5 @@ For details, see [Troubleshooting](./Doc/ja/user_doc/troubleshooting_ja.md#known
 All Yume-IME code is released under the [MIT License](https://opensource.org/license/mit).
 
 ## 7. Support
-If you like it, I'd appreciate it if you could give it a star.<br/>
+If you like it, I'd appreciate it if you could give it a star.<br /><br />
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0cyan)
